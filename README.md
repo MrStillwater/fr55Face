@@ -6,4 +6,5 @@ hour and minutes,
 a bluetooth icon when connected,
 and a battery indicator ring.
 
+
 ![Watch face](fr55Face.png)

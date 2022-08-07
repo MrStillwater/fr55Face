@@ -2,121 +2,119 @@
 <debugInfo>
     <manifest filename="C:\Users\willj\vscode\Forerunner\Forerunnerface\manifest.xml"/>
     <pcToLineNum>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="1" lineNum="37" parent="globals/ForerunnerfaceView" pc="268435456" symbol="initialize"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="1" lineNum="38" parent="globals/ForerunnerfaceView" pc="268435460" symbol="initialize"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="1" lineNum="39" parent="globals/ForerunnerfaceView" pc="268435478" symbol="initialize"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="2" lineNum="44" parent="globals/ForerunnerfaceView" pc="268435502" symbol="onLayout"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="2" lineNum="45" parent="globals/ForerunnerfaceView" pc="268435506" symbol="onLayout"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="2" lineNum="46" parent="globals/ForerunnerfaceView" pc="268435537" symbol="onLayout"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="2" lineNum="47" parent="globals/ForerunnerfaceView" pc="268435568" symbol="onLayout"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="2" lineNum="48" parent="globals/ForerunnerfaceView" pc="268435597" symbol="onLayout"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="3" lineNum="55" parent="globals/ForerunnerfaceView" pc="268435612" symbol="onShow"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="4" lineNum="60" parent="globals/ForerunnerfaceView" pc="268435617" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="4" lineNum="61" parent="globals/ForerunnerfaceView" pc="268435621" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="4" lineNum="62" parent="globals/ForerunnerfaceView" pc="268435653" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="4" lineNum="64" parent="globals/ForerunnerfaceView" pc="268435665" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="4" lineNum="65" parent="globals/ForerunnerfaceView" pc="268435679" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="4" lineNum="66" parent="globals/ForerunnerfaceView" pc="268435693" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="73" parent="globals/ForerunnerfaceView" pc="268435708" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="74" parent="globals/ForerunnerfaceView" pc="268435712" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="75" parent="globals/ForerunnerfaceView" pc="268435737" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="76" parent="globals/ForerunnerfaceView" pc="268435762" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="79" parent="globals/ForerunnerfaceView" pc="268435811" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="80" parent="globals/ForerunnerfaceView" pc="268435828" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="1" lineNum="35" parent="globals/ForerunnerfaceView" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="1" lineNum="36" parent="globals/ForerunnerfaceView" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="1" lineNum="37" parent="globals/ForerunnerfaceView" pc="268435478" symbol="initialize"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="2" lineNum="42" parent="globals/ForerunnerfaceView" pc="268435502" symbol="onLayout"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="2" lineNum="43" parent="globals/ForerunnerfaceView" pc="268435506" symbol="onLayout"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="2" lineNum="44" parent="globals/ForerunnerfaceView" pc="268435537" symbol="onLayout"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="3" lineNum="51" parent="globals/ForerunnerfaceView" pc="268435569" symbol="onShow"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="4" lineNum="56" parent="globals/ForerunnerfaceView" pc="268435574" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="4" lineNum="57" parent="globals/ForerunnerfaceView" pc="268435578" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="4" lineNum="58" parent="globals/ForerunnerfaceView" pc="268435601" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="4" lineNum="59" parent="globals/ForerunnerfaceView" pc="268435633" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="4" lineNum="61" parent="globals/ForerunnerfaceView" pc="268435645" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="4" lineNum="62" parent="globals/ForerunnerfaceView" pc="268435659" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="4" lineNum="63" parent="globals/ForerunnerfaceView" pc="268435673" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="70" parent="globals/ForerunnerfaceView" pc="268435690" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="71" parent="globals/ForerunnerfaceView" pc="268435694" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="72" parent="globals/ForerunnerfaceView" pc="268435719" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="73" parent="globals/ForerunnerfaceView" pc="268435744" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="76" parent="globals/ForerunnerfaceView" pc="268435790" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="77" parent="globals/ForerunnerfaceView" pc="268435807" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="80" parent="globals/ForerunnerfaceView" pc="268435817" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="81" parent="globals/ForerunnerfaceView" pc="268435828" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
         <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="83" parent="globals/ForerunnerfaceView" pc="268435838" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
         <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="84" parent="globals/ForerunnerfaceView" pc="268435849" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="86" parent="globals/ForerunnerfaceView" pc="268435859" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="87" parent="globals/ForerunnerfaceView" pc="268435870" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="89" parent="globals/ForerunnerfaceView" pc="268435883" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="97" parent="globals/ForerunnerfaceView" pc="268435951" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="98" parent="globals/ForerunnerfaceView" pc="268435995" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="114" parent="globals/ForerunnerfaceView" pc="268436071" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="123" parent="globals/ForerunnerfaceView" pc="268436227" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="125" parent="globals/ForerunnerfaceView" pc="268436241" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="134" parent="globals/ForerunnerfaceView" pc="268436392" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="137" parent="globals/ForerunnerfaceView" pc="268436407" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="138" parent="globals/ForerunnerfaceView" pc="268436411" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="139" parent="globals/ForerunnerfaceView" pc="268436428" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="140" parent="globals/ForerunnerfaceView" pc="268436428" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="141" parent="globals/ForerunnerfaceView" pc="268436432" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="142" parent="globals/ForerunnerfaceView" pc="268436448" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="143" parent="globals/ForerunnerfaceView" pc="268436464" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="144" parent="globals/ForerunnerfaceView" pc="268436477" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="145" parent="globals/ForerunnerfaceView" pc="268436514" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="147" parent="globals/ForerunnerfaceView" pc="268436533" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="148" parent="globals/ForerunnerfaceView" pc="268436553" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="151" parent="globals/ForerunnerfaceView" pc="268436570" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="153" parent="globals/ForerunnerfaceView" pc="268436584" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="155" parent="globals/ForerunnerfaceView" pc="268436610" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="156" parent="globals/ForerunnerfaceView" pc="268436621" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="160" parent="globals/ForerunnerfaceView" pc="268436665" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="162" parent="globals/ForerunnerfaceView" pc="268436669" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="163" parent="globals/ForerunnerfaceView" pc="268436700" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="164" parent="globals/ForerunnerfaceView" pc="268436707" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="167" parent="globals/ForerunnerfaceView" pc="268436717" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="168" parent="globals/ForerunnerfaceView" pc="268436734" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="169" parent="globals/ForerunnerfaceView" pc="268436741" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="172" parent="globals/ForerunnerfaceView" pc="268436754" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="181" parent="globals/ForerunnerfaceView" pc="268436890" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="8" lineNum="188" parent="globals/ForerunnerfaceView" pc="268436905" symbol="onHide"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="9" lineNum="193" parent="globals/ForerunnerfaceView" pc="268436910" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="10" lineNum="198" parent="globals/ForerunnerfaceView" pc="268436915" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="14" parent="globals/ForerunnerfaceView" pc="268437025" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="21" parent="globals/ForerunnerfaceView" pc="268437043" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="28" parent="globals/ForerunnerfaceView" pc="268437063" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="29" parent="globals/ForerunnerfaceView" pc="268437083" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="30" parent="globals/ForerunnerfaceView" pc="268437103" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="31" parent="globals/ForerunnerfaceView" pc="268437123" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="33" parent="globals/ForerunnerfaceView" pc="268437143" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="34" parent="globals/ForerunnerfaceView" pc="268437171" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="14" parent="globals/ForerunnerfaceView" pc="268437025" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="13" lineNum="7" parent="globals/ForerunnerfaceApp" pc="268436920" symbol="initialize"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="13" lineNum="8" parent="globals/ForerunnerfaceApp" pc="268436924" symbol="initialize"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="14" lineNum="12" parent="globals/ForerunnerfaceApp" pc="268436943" symbol="onStart"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="15" lineNum="16" parent="globals/ForerunnerfaceApp" pc="268436948" symbol="onStop"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="16" lineNum="20" parent="globals/ForerunnerfaceApp" pc="268436953" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="16" lineNum="21" parent="globals/ForerunnerfaceApp" pc="268436957" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="17" lineNum="5" parent="globals/ForerunnerfaceApp" pc="268437230" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="17" lineNum="5" parent="globals/ForerunnerfaceApp" pc="268437230" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="18" lineNum="26" parent="globals" pc="268436995" symbol="getApp"/>
-        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="18" lineNum="27" parent="globals" pc="268437007" symbol="getApp"/>
-        <entry filename="Rez" id="20" lineNum="2" parent="globals/Rez/Drawables" pc="268437224" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="21" lineNum="6" parent="globals/Rez/Fonts" pc="268437226" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="22" lineNum="11" parent="globals/Rez/JsonData" pc="268437228" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="23" lineNum="13" parent="globals/Rez/Layouts" pc="268437227" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="24" lineNum="15" parent="globals/Rez/Menus" pc="268437225" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="25" lineNum="17" parent="globals/Rez/Strings" pc="268437229" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="26" lineNum="1" parent="globals/Rez" pc="268437200" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="26" lineNum="1" parent="globals/Rez" pc="268437200" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="86" parent="globals/ForerunnerfaceView" pc="268435862" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="94" parent="globals/ForerunnerfaceView" pc="268435930" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="95" parent="globals/ForerunnerfaceView" pc="268435974" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="111" parent="globals/ForerunnerfaceView" pc="268436050" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="120" parent="globals/ForerunnerfaceView" pc="268436206" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="122" parent="globals/ForerunnerfaceView" pc="268436220" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="5" lineNum="131" parent="globals/ForerunnerfaceView" pc="268436371" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="134" parent="globals/ForerunnerfaceView" pc="268436386" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="135" parent="globals/ForerunnerfaceView" pc="268436390" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="136" parent="globals/ForerunnerfaceView" pc="268436390" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="137" parent="globals/ForerunnerfaceView" pc="268436394" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="138" parent="globals/ForerunnerfaceView" pc="268436413" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="139" parent="globals/ForerunnerfaceView" pc="268436432" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="140" parent="globals/ForerunnerfaceView" pc="268436445" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="141" parent="globals/ForerunnerfaceView" pc="268436470" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="143" parent="globals/ForerunnerfaceView" pc="268436489" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="144" parent="globals/ForerunnerfaceView" pc="268436503" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="147" parent="globals/ForerunnerfaceView" pc="268436520" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="149" parent="globals/ForerunnerfaceView" pc="268436534" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="151" parent="globals/ForerunnerfaceView" pc="268436560" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="6" lineNum="152" parent="globals/ForerunnerfaceView" pc="268436571" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="156" parent="globals/ForerunnerfaceView" pc="268436615" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="157" parent="globals/ForerunnerfaceView" pc="268436619" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="158" parent="globals/ForerunnerfaceView" pc="268436647" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="159" parent="globals/ForerunnerfaceView" pc="268436654" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="162" parent="globals/ForerunnerfaceView" pc="268436664" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="163" parent="globals/ForerunnerfaceView" pc="268436681" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="164" parent="globals/ForerunnerfaceView" pc="268436688" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="167" parent="globals/ForerunnerfaceView" pc="268436701" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="7" lineNum="176" parent="globals/ForerunnerfaceView" pc="268436837" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="8" lineNum="183" parent="globals/ForerunnerfaceView" pc="268436852" symbol="onHide"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="9" lineNum="188" parent="globals/ForerunnerfaceView" pc="268436857" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="10" lineNum="193" parent="globals/ForerunnerfaceView" pc="268436862" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="14" parent="globals/ForerunnerfaceView" pc="268436972" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="20" parent="globals/ForerunnerfaceView" pc="268436990" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="27" parent="globals/ForerunnerfaceView" pc="268437010" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="28" parent="globals/ForerunnerfaceView" pc="268437030" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="29" parent="globals/ForerunnerfaceView" pc="268437050" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="30" parent="globals/ForerunnerfaceView" pc="268437070" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="31" parent="globals/ForerunnerfaceView" pc="268437090" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="32" parent="globals/ForerunnerfaceView" pc="268437118" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceView.mc" id="11" lineNum="14" parent="globals/ForerunnerfaceView" pc="268436972" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="13" lineNum="7" parent="globals/ForerunnerfaceApp" pc="268436867" symbol="initialize"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="13" lineNum="8" parent="globals/ForerunnerfaceApp" pc="268436871" symbol="initialize"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="14" lineNum="12" parent="globals/ForerunnerfaceApp" pc="268436890" symbol="onStart"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="15" lineNum="16" parent="globals/ForerunnerfaceApp" pc="268436895" symbol="onStop"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="16" lineNum="20" parent="globals/ForerunnerfaceApp" pc="268436900" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="16" lineNum="21" parent="globals/ForerunnerfaceApp" pc="268436904" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="17" lineNum="5" parent="globals/ForerunnerfaceApp" pc="268437177" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="17" lineNum="5" parent="globals/ForerunnerfaceApp" pc="268437177" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="18" lineNum="26" parent="globals" pc="268436942" symbol="getApp"/>
+        <entry filename="C:\\Users\\willj\\vscode\\Forerunner\\Forerunnerface\\source\\ForerunnerfaceApp.mc" id="18" lineNum="27" parent="globals" pc="268436954" symbol="getApp"/>
+        <entry filename="Rez" id="20" lineNum="2" parent="globals/Rez/Drawables" pc="268437171" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="21" lineNum="6" parent="globals/Rez/Fonts" pc="268437173" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="22" lineNum="11" parent="globals/Rez/JsonData" pc="268437175" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="23" lineNum="13" parent="globals/Rez/Layouts" pc="268437174" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="24" lineNum="15" parent="globals/Rez/Menus" pc="268437172" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="25" lineNum="17" parent="globals/Rez/Strings" pc="268437176" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="26" lineNum="1" parent="globals/Rez" pc="268437147" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="26" lineNum="1" parent="globals/Rez" pc="268437147" symbol="&lt;init&gt;"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry field="true" id="24" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;DATE_COLOR&gt;"/>
+        <entry field="true" id="23" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;DATE_COLOR&gt;"/>
         <entry id="8389346" symbol="text"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
         <entry id="4" module="true" symbol="globals/Rez/Menus"/>
         <entry id="9" object="true" symbol="ForerunnerfaceView"/>
-        <entry id="28" method="true" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
+        <entry id="27" method="true" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;"/>
         <entry id="8388924" module="true" symbol="Gregorian"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry field="true" id="36" symbol="AppName"/>
-        <entry field="true" id="25" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;ICON_COLOR&gt;"/>
+        <entry field="true" id="35" symbol="AppName"/>
+        <entry field="true" id="24" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;ICON_COLOR&gt;"/>
         <entry id="8" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-        <entry field="true" id="22" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;BG_COLOR&gt;"/>
+        <entry field="true" id="21" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;BG_COLOR&gt;"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="2" module="true" symbol="globals/Rez"/>
-        <entry field="true" id="15" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;DATE_FONT&gt;"/>
+        <entry field="true" id="14" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;DATE_FONT&gt;"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
-        <entry field="true" id="13" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;_iconFont&gt;"/>
-        <entry field="true" id="17" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;ICON_PAD_Y&gt;"/>
-        <entry field="true" id="18" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;ICON_PAD_X&gt;"/>
-        <entry field="true" id="21" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;LOW_BATTERY_LEVEL&gt;"/>
+        <entry field="true" id="12" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;_iconFont&gt;"/>
+        <entry field="true" id="16" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;ICON_PAD_Y&gt;"/>
+        <entry field="true" id="17" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;ICON_PAD_X&gt;"/>
+        <entry field="true" id="20" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;LOW_BATTERY_LEVEL&gt;"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
         <entry id="8389348" symbol="font"/>
-        <entry id="32" module="true" symbol="Menus"/>
+        <entry id="31" module="true" symbol="Menus"/>
         <entry id="8389275" method="true" symbol="getApp"/>
         <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
@@ -125,71 +123,71 @@
         <entry id="10" object="true" symbol="ForerunnerfaceApp"/>
         <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
         <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
-        <entry field="true" id="35" symbol="icons"/>
-        <entry field="true" id="27" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;ICON_FONT&gt;"/>
+        <entry field="true" id="34" symbol="icons"/>
+        <entry field="true" id="26" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;ICON_FONT&gt;"/>
         <entry id="8389377" method="true" symbol="onExitSleep"/>
         <entry id="8388644" module="true" symbol="System"/>
-        <entry field="true" id="14" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;_settings&gt;"/>
+        <entry field="true" id="13" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;_settings&gt;"/>
         <entry id="8388645" module="true" symbol="Time"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
         <entry id="8388640" module="true" symbol="Lang"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-        <entry field="true" id="33" symbol="LauncherIcon"/>
+        <entry field="true" id="32" symbol="LauncherIcon"/>
         <entry id="8388610" symbol="statics"/>
         <entry id="8389123" method="true" symbol="onShow"/>
         <entry id="8389350" module="true" symbol="globals"/>
-        <entry id="30" method="true" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
-        <entry id="29" method="true" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
+        <entry id="29" method="true" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;"/>
+        <entry id="28" method="true" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
-        <entry field="true" id="26" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;TIME_FONT&gt;"/>
+        <entry field="true" id="25" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;TIME_FONT&gt;"/>
         <entry id="8388702" method="true" symbol="initialize"/>
         <entry id="8389279" method="true" symbol="onStart"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
         <entry id="8389347" symbol="color"/>
-        <entry field="true" id="16" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;DATE_GAP&gt;"/>
-        <entry field="true" id="23" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;TIME_COLOR&gt;"/>
-        <entry id="31" module="true" symbol="Layouts"/>
+        <entry field="true" id="15" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;DATE_GAP&gt;"/>
+        <entry field="true" id="22" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;TIME_COLOR&gt;"/>
+        <entry id="30" module="true" symbol="Layouts"/>
         <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
         <entry field="true" id="8389743" symbol="backgroundColor"/>
         <entry id="8389125" method="true" symbol="onHide"/>
         <entry id="8388635" module="true" symbol="Application"/>
-        <entry field="true" id="12" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;_timeFont&gt;"/>
-        <entry field="true" id="34" symbol="sauce_code_pro"/>
-        <entry field="true" id="11" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;_batteryLevel&gt;"/>
-        <entry field="true" id="19" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;PEN_WIDTH&gt;"/>
-        <entry field="true" id="20" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;ARC_DEGREE_START&gt;"/>
+        <entry field="true" id="11" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;_timeFont&gt;"/>
+        <entry field="true" id="33" symbol="sauce_code_pro"/>
+        <entry field="true" id="18" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;PEN_WIDTH&gt;"/>
+        <entry field="true" id="19" symbol="&lt;globals/ForerunnerfaceView/&lt;&gt;ARC_DEGREE_START&gt;"/>
     </symbolTable>
     <localVars>
-        <entry arg="true" endPc="268435611" name="dc" stackId="1" startPc="268435502"/>
-        <entry arg="true" endPc="268435707" name="dc" stackId="1" startPc="268435617"/>
-        <entry endPc="268436405" name="timeString" stackId="7" startPc="268435712"/>
-        <entry endPc="268436405" name="timeFontHeight" stackId="2" startPc="268435712"/>
-        <entry endPc="268436405" name="clockTime" stackId="5" startPc="268435712"/>
-        <entry endPc="268436405" name="hour" stackId="6" startPc="268435712"/>
-        <entry endPc="268436405" name="dateLocY" stackId="4" startPc="268435712"/>
-        <entry endPc="268436405" name="dateFontHeight" stackId="3" startPc="268435712"/>
-        <entry endPc="268436405" name="today" stackId="8" startPc="268435712"/>
-        <entry endPc="268436405" name="clockDateText" stackId="11" startPc="268435712"/>
-        <entry endPc="268436405" name="clockHourMinuteText" stackId="10" startPc="268435712"/>
-        <entry endPc="268436405" name="dateString" stackId="9" startPc="268435712"/>
-        <entry arg="true" endPc="268436406" name="dc" stackId="1" startPc="268435708"/>
-        <entry endPc="268436663" name="arcCenterY" stackId="6" startPc="268436411"/>
-        <entry endPc="268436663" name="penColor" stackId="3" startPc="268436411"/>
-        <entry endPc="268436663" name="arcCenterX" stackId="5" startPc="268436411"/>
-        <entry endPc="268436663" name="arcRadius" stackId="7" startPc="268436411"/>
-        <entry endPc="268436663" name="batteryDegree" stackId="8" startPc="268436411"/>
-        <entry endPc="268436663" name="settings" stackId="2" startPc="268436411"/>
-        <entry endPc="268436663" name="isBatteryLow" stackId="4" startPc="268436411"/>
-        <entry endPc="268436663" name="degreeEnd" stackId="9" startPc="268436411"/>
-        <entry arg="true" endPc="268436664" name="dc" stackId="1" startPc="268436407"/>
-        <entry endPc="268436903" name="iconString" stackId="3" startPc="268436669"/>
-        <entry endPc="268436903" name="iconText" stackId="5" startPc="268436669"/>
-        <entry endPc="268436903" name="iconColor" stackId="4" startPc="268436669"/>
-        <entry endPc="268436903" name="iconLocX" stackId="2" startPc="268436669"/>
-        <entry arg="true" endPc="268436904" name="dc" stackId="1" startPc="268436665"/>
-        <entry arg="true" endPc="268436947" name="state" stackId="1" startPc="268436943"/>
-        <entry arg="true" endPc="268436952" name="state" stackId="1" startPc="268436948"/>
+        <entry arg="true" endPc="268435568" name="dc" stackId="1" startPc="268435502"/>
+        <entry endPc="268435688" name="batteryLevel" stackId="2" startPc="268435578"/>
+        <entry arg="true" endPc="268435689" name="dc" stackId="1" startPc="268435574"/>
+        <entry endPc="268436384" name="timeString" stackId="7" startPc="268435694"/>
+        <entry endPc="268436384" name="timeFontHeight" stackId="2" startPc="268435694"/>
+        <entry endPc="268436384" name="clockTime" stackId="5" startPc="268435694"/>
+        <entry endPc="268436384" name="hour" stackId="6" startPc="268435694"/>
+        <entry endPc="268436384" name="dateLocY" stackId="4" startPc="268435694"/>
+        <entry endPc="268436384" name="dateFontHeight" stackId="3" startPc="268435694"/>
+        <entry endPc="268436384" name="today" stackId="8" startPc="268435694"/>
+        <entry endPc="268436384" name="clockDateText" stackId="11" startPc="268435694"/>
+        <entry endPc="268436384" name="clockHourMinuteText" stackId="10" startPc="268435694"/>
+        <entry endPc="268436384" name="dateString" stackId="9" startPc="268435694"/>
+        <entry arg="true" endPc="268436385" name="dc" stackId="1" startPc="268435690"/>
+        <entry endPc="268436613" name="arcCenterY" stackId="6" startPc="268436390"/>
+        <entry endPc="268436613" name="penColor" stackId="3" startPc="268436390"/>
+        <entry endPc="268436613" name="arcCenterX" stackId="5" startPc="268436390"/>
+        <entry endPc="268436613" name="arcRadius" stackId="7" startPc="268436390"/>
+        <entry endPc="268436613" name="batteryDegree" stackId="8" startPc="268436390"/>
+        <entry endPc="268436613" name="isBatteryLow" stackId="4" startPc="268436390"/>
+        <entry endPc="268436613" name="degreeEnd" stackId="9" startPc="268436390"/>
+        <entry arg="true" endPc="268436614" name="batteryLevel" stackId="2" startPc="268436386"/>
+        <entry arg="true" endPc="268436614" name="dc" stackId="1" startPc="268436386"/>
+        <entry endPc="268436850" name="iconString" stackId="3" startPc="268436619"/>
+        <entry endPc="268436850" name="iconText" stackId="5" startPc="268436619"/>
+        <entry endPc="268436850" name="iconColor" stackId="4" startPc="268436619"/>
+        <entry endPc="268436850" name="iconLocX" stackId="2" startPc="268436619"/>
+        <entry arg="true" endPc="268436851" name="dc" stackId="1" startPc="268436615"/>
+        <entry arg="true" endPc="268436894" name="state" stackId="1" startPc="268436890"/>
+        <entry arg="true" endPc="268436899" name="state" stackId="1" startPc="268436895"/>
     </localVars>
     <annotations>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
@@ -200,93 +198,94 @@
     <dataEntryOffsetMappings>
         <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
         <dataEntry label="globals/ForerunnerfaceView" offset="158" parentId="globals" symbolId="ForerunnerfaceView" type="class"/>
-        <dataEntry label="globals/Rez" offset="413" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry label="globals/Rez/Drawables" offset="492" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry label="globals/Rez/Menus" offset="531" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry label="globals/Rez/Fonts" offset="562" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry label="globals/Rez/Layouts" offset="609" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry label="globals/Rez/JsonData" offset="640" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry label="globals/Rez/Strings" offset="671" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry label="globals/ForerunnerfaceApp" offset="710" parentId="globals" symbolId="ForerunnerfaceApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="405" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="484" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="523" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="554" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="601" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="632" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="663" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/ForerunnerfaceApp" offset="702" parentId="globals" symbolId="ForerunnerfaceApp" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" endPc="268435501" name="initialize" parent="ForerunnerfaceView" startPc="268435456">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435611" name="onLayout" parent="ForerunnerfaceView" startPc="268435502">
+        <functionEntry accessMode="public" endPc="268435568" name="onLayout" parent="ForerunnerfaceView" startPc="268435502">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435616" name="onShow" parent="ForerunnerfaceView" startPc="268435612">
+        <functionEntry accessMode="public" endPc="268435573" name="onShow" parent="ForerunnerfaceView" startPc="268435569">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435707" name="onUpdate" parent="ForerunnerfaceView" startPc="268435617">
+        <functionEntry accessMode="public" endPc="268435689" name="onUpdate" parent="ForerunnerfaceView" startPc="268435574">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268436406" name="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;" parent="ForerunnerfaceView" startPc="268435708">
+        <functionEntry accessMode="private" endPc="268436385" name="&lt;globals/ForerunnerfaceView/&lt;&gt;drawClock&gt;" parent="ForerunnerfaceView" startPc="268435690">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268436664" name="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;" parent="ForerunnerfaceView" startPc="268436407">
+        <functionEntry accessMode="private" endPc="268436614" name="&lt;globals/ForerunnerfaceView/&lt;&gt;drawBatteryArc&gt;" parent="ForerunnerfaceView" startPc="268436386">
+            <param id="dc"/>
+            <param id="batteryLevel"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436851" name="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;" parent="ForerunnerfaceView" startPc="268436615">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268436904" name="&lt;globals/ForerunnerfaceView/&lt;&gt;drawIcons&gt;" parent="ForerunnerfaceView" startPc="268436665">
-            <param id="dc"/>
+        <functionEntry accessMode="public" endPc="268436856" name="onHide" parent="ForerunnerfaceView" startPc="268436852">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436909" name="onHide" parent="ForerunnerfaceView" startPc="268436905">
+        <functionEntry accessMode="public" endPc="268436861" name="onExitSleep" parent="ForerunnerfaceView" startPc="268436857">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436914" name="onExitSleep" parent="ForerunnerfaceView" startPc="268436910">
+        <functionEntry accessMode="public" endPc="268436866" name="onEnterSleep" parent="ForerunnerfaceView" startPc="268436862">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436919" name="onEnterSleep" parent="ForerunnerfaceView" startPc="268436915">
+        <functionEntry accessMode="protected" endPc="268437146" name="&lt;init&gt;" parent="ForerunnerfaceView" startPc="268436972">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437199" name="&lt;init&gt;" parent="ForerunnerfaceView" startPc="268437025">
+        <functionEntry accessMode="public" endPc="268436889" name="initialize" parent="ForerunnerfaceApp" startPc="268436867">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436942" name="initialize" parent="ForerunnerfaceApp" startPc="268436920">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268436947" name="onStart" parent="ForerunnerfaceApp" startPc="268436943">
+        <functionEntry accessMode="public" endPc="268436894" name="onStart" parent="ForerunnerfaceApp" startPc="268436890">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436952" name="onStop" parent="ForerunnerfaceApp" startPc="268436948">
+        <functionEntry accessMode="public" endPc="268436899" name="onStop" parent="ForerunnerfaceApp" startPc="268436895">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268436994" name="getInitialView" parent="ForerunnerfaceApp" startPc="268436953">
+        <functionEntry accessMode="public" endPc="268436941" name="getInitialView" parent="ForerunnerfaceApp" startPc="268436900">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437248" name="&lt;init&gt;" parent="ForerunnerfaceApp" startPc="268437230">
+        <functionEntry accessMode="protected" endPc="268437195" name="&lt;init&gt;" parent="ForerunnerfaceApp" startPc="268437177">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437023" name="getApp" startPc="268436995">
+        <functionEntry accessMode="public" endPc="268436970" name="getApp" startPc="268436942">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437224" name="&lt;init&gt;" parent="Drawables" startPc="268437224">
+        <functionEntry accessMode="protected" endPc="268437171" name="&lt;init&gt;" parent="Drawables" startPc="268437171">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437226" name="&lt;init&gt;" parent="Fonts" startPc="268437226">
+        <functionEntry accessMode="protected" endPc="268437173" name="&lt;init&gt;" parent="Fonts" startPc="268437173">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437228" name="&lt;init&gt;" parent="JsonData" startPc="268437228">
+        <functionEntry accessMode="protected" endPc="268437175" name="&lt;init&gt;" parent="JsonData" startPc="268437175">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437227" name="&lt;init&gt;" parent="Layouts" startPc="268437227">
+        <functionEntry accessMode="protected" endPc="268437174" name="&lt;init&gt;" parent="Layouts" startPc="268437174">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437225" name="&lt;init&gt;" parent="Menus" startPc="268437225">
+        <functionEntry accessMode="protected" endPc="268437172" name="&lt;init&gt;" parent="Menus" startPc="268437172">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437229" name="&lt;init&gt;" parent="Strings" startPc="268437229">
+        <functionEntry accessMode="protected" endPc="268437176" name="&lt;init&gt;" parent="Strings" startPc="268437176">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437223" name="&lt;init&gt;" parent="Rez" startPc="268437200">
+        <functionEntry accessMode="protected" endPc="268437170" name="&lt;init&gt;" parent="Rez" startPc="268437147">
             <documentation/>
         </functionEntry>
     </functions>
