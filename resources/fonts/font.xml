@@ -1,0 +1,8 @@
+<!-- 
+    Source Code Pro font
+    Only include digits 
+-->
+<fonts>
+    <font id="sauce_code_pro" filename="SauceCodePro.fnt" filter="0123456789:"/>
+     <font id="icons" filename="crystal-icons-small.fnt" antialias="false" filter="0356789:;?="/>
+</fonts>
