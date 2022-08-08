@@ -1,0 +1,12 @@
+# Compiled source
+###################
+*.prg
+*.mir
+
+# PRG Debug
+#############
+*.prg.debug.xml
+
+# Project files
+#################
+.idea
