@@ -52,14 +52,12 @@ class ForerunnerfaceView extends WatchUi.WatchFace {
 
     // Update the view
     public function onUpdate(dc as Dc) as Void {
-        var batteryLevel = System.getSystemStats().battery;
-        
         dc.setColor(Graphics.COLOR_BLACK, BG_COLOR);
         dc.clear();
 
         drawIcons(dc);
         drawClock(dc);
-        drawBatteryArc(dc, batteryLevel);
+        drawBatteryArc(dc);
         
         // Call the parent onUpdate function to redraw the layout
         //View.onUpdate(dc);
@@ -130,7 +128,8 @@ class ForerunnerfaceView extends WatchUi.WatchFace {
         clockDateText.draw(dc);
     }
 
-    private function drawBatteryArc(dc as Dc, batteryLevel as Float) as Void {
+    private function drawBatteryArc(dc as Dc) as Void {
+        var batteryLevel = System.getSystemStats().battery;
         var penColor;
         var isBatteryLow = false;
         var arcCenterX = dc.getWidth() / 2;
