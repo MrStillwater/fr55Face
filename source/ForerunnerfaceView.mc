@@ -15,10 +15,9 @@ class ForerunnerfaceView extends WatchUi.WatchFace {
 
     private var _timeFont;
     private var _iconFont;
-    private var _settings;
 
     private const DATE_FONT = Graphics.FONT_XTINY;
-    private const DATE_GAP = 28;
+    private const DATE_GAP = 25;
     private const ICON_PAD_Y = 21;
     private const ICON_PAD_X = 56;
     private const PEN_WIDTH = 1;
@@ -34,7 +33,6 @@ class ForerunnerfaceView extends WatchUi.WatchFace {
 
     public function initialize() {
         WatchFace.initialize();
-        _settings = System.getDeviceSettings();
     }
 
 
@@ -159,8 +157,8 @@ class ForerunnerfaceView extends WatchUi.WatchFace {
         var iconString = " ";
         var iconColor = BG_COLOR;
 
-        // From the icon font, bluetooth is digit 8
-        if (_settings.phoneConnected) {
+        // Bluetooth icon is digit 8 from the icons font
+        if (System.getDeviceSettings().phoneConnected) {
             iconString = "8";
             iconColor = ICON_COLOR;
         }
